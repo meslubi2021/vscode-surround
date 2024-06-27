@@ -455,7 +455,7 @@
     "@types/vscode": "^1.55.0",
     "@typescript-eslint/eslint-plugin": "^5.21.0",
     "@typescript-eslint/parser": "^5.21.0",
-    "@vscode/test-web": "^0.0.29",
+    "@vscode/test-web": "^0.0.55",
     "eslint": "^8.14.0",
     "jest": "^28.1.3",
     "ts-jest": "^28.0.7",
